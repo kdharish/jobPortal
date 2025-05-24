@@ -1,0 +1,105 @@
+[
+    {
+        "id": 1,
+        "title": "Frontend Developer (React.js)",
+        "company": "TechNova Solutions",
+        "location": "Bengaluru, Karnataka, India",
+        "experience": "2\u20134 years",
+        "salary": "\u20b96\u201310 LPA",
+        "job_type": "Full-time | Remote",
+        "posted": "2 days ago",
+        "key_skills": [
+            "React.js",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "REST APIs"
+        ],
+        "apply_link": "/jobs/frontend-developer-reactjs"
+    },
+    {
+        "id": 2,
+        "title": "Digital Marketing Executive",
+        "company": "BrightBee Media",
+        "location": "Noida, Uttar Pradesh",
+        "experience": "1\u20133 years",
+        "salary": "\u20b93\u20135 LPA",
+        "job_type": "Full-time | On-site",
+        "posted": "1 week ago",
+        "key_skills": [
+            "SEO",
+            "Google Ads",
+            "Meta Ads",
+            "Analytics"
+        ],
+        "apply_link": "/jobs/digital-marketing-executive"
+    },
+    {
+        "title": "Data Analyst Intern",
+        "company": "DataVerse AI",
+        "location": "Remote",
+        "experience": "Fresher",
+        "salary": "\u20b910,000/month (Stipend)",
+        "job_type": "Internship | Remote",
+        "posted": "Today",
+        "key_skills": [
+            "Excel",
+            "Python",
+            "SQL",
+            "Power BI"
+        ],
+        "apply_link": "/jobs/data-analyst-intern"
+    },
+    {
+        "id": 3,
+        "title": "HR Manager",
+        "company": "CoreBridge Pvt. Ltd.",
+        "location": "Pune, Maharashtra",
+        "experience": "5+ years",
+        "salary": "\u20b99\u201314 LPA",
+        "job_type": "Full-time | Hybrid",
+        "posted": "3 days ago",
+        "key_skills": [
+            "Recruitment",
+            "Policy Development",
+            "Payroll",
+            "Compliance"
+        ],
+        "apply_link": "/jobs/hr-manager"
+    },
+    {
+        "id": 4,
+        "title": "Backend Developer (Node.js)",
+        "company": "DevStack Technologies",
+        "location": "Hyderabad, Telangana",
+        "experience": "3\u20136 years",
+        "salary": "\u20b98\u201312 LPA",
+        "job_type": "Full-time | On-site",
+        "posted": "5 days ago",
+        "key_skills": [
+            "Node.js",
+            "MongoDB",
+            "Express.js",
+            "Redis"
+        ],
+        "apply_link": "/jobs/backend-developer-nodejs"
+    },
+    {
+        
+        "id": 5,
+        "title": "UI/UX Designer",
+        "company": "PixelPeak Studio",
+        "location": "Gurugram, Haryana",
+        "experience": "2\u20135 years",
+        "salary": "\u20b95\u20138 LPA",
+        "job_type": "Full-time | Hybrid",
+        "posted": "6 days ago",
+        "key_skills": [
+            "Figma",
+            "Adobe XD",
+            "Design Systems",
+            "Wireframing"
+        ],
+        "apply_link": "/jobs/ui-ux-designer"
+    }
+]

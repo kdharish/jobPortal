@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  input[type='text'],
+  input[type='email'],
+  input[type='password'] {
+    @apply w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm;
+    @apply focus:outline-none focus:ring-2 focus:ring-primary focus:border-primary;
+  }
+
+  label {
+    @apply block text-sm font-medium text-gray-700;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply px-4 py-2 text-sm font-medium text-white bg-primary rounded-md;
+    @apply hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary;
+  }
+  
+  .input-field {
+    @apply mt-1 block w-full rounded-md border-gray-300 shadow-sm;
+    @apply focus:border-primary focus:ring-primary sm:text-sm;
+  }
+  
+  .form-label {
+    @apply block text-sm font-medium text-gray-700;
+  }
+
+  .role-selector {
+    @apply relative block cursor-pointer rounded-lg border p-4;
+    @apply focus:outline-none transition-colors duration-200;
+  }
+
+  .role-selector-active {
+    @apply border-primary bg-blue-50;
+  }
+
+  .role-selector-inactive {
+    @apply border-gray-300 hover:border-gray-400;
+  }
+}
